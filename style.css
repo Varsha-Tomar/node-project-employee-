@@ -1,0 +1,29 @@
+
+  .maincontainer {
+    font-family: barlow condensed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    letter-spacing: 0.6px;
+  }
+  .box {
+    background: #fff;
+    width: 800px;
+    height: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid #7f8c8d;
+    border-radius: 10px;
+    padding: 10px;
+  }
+  .headingbox {
+    display: flex;
+    background: #c7ecee;
+    width: 170px;
+    margin: 10px 10px 0px 10px;
+    padding: 5px;
+    border-radius: 5px;
+    align-self: flex-start;
+  }
